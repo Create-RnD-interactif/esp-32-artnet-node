@@ -15,6 +15,8 @@ via le UI il y a beaucoup de possibilités pour faire des instalations en mode "
 ## artnet
 https://youtu.be/_EtR9kphh2g
 
+https://youtu.be/wLkKNZu4zoI
+
 Les tests que j'ai effectué avec le artnet on été effectué dans touchdesigner avec 2 bande del ws2815 de 300 px (4 univers).
 
 j'ai tester avec environs 25 pieds de distances et la transmission artnet se faisait bien
