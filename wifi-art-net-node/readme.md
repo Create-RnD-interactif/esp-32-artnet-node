@@ -16,7 +16,7 @@ l'instalation est très simple, il prend en charge le web serial donc pas besoin
 - Quand le esp-32 est débrancher et rebrancher il reboot directement sur le réseau, car il est storé sur la parti préférence du esp-32
 - benché avec 2 bande led ws2815 de 300 pixels chacune durant toute la nuit
 
-![photo du matériel](medias/Photo 2024-05-01 11 19 55.jpg)
+![photo du matériel](medias/Photo-2024-05-01-11-19-55.jpg)
 
 ## ui
 via le UI il y a beaucoup de possibilités pour faire des instalations en mode "standalone" et/ou programmer 2-3 cue pour remettre a un clients quelque chose de facile à opérer.
