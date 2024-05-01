@@ -18,6 +18,8 @@ l'instalation est très simple, il prend en charge le web serial donc pas besoin
 
 ![photo du matériel](medias/Photo-2024-05-01-11-19-55.jpg)
 
+![Schéma de branchement](medias/schema-branchement-wifi-art-net-node.png)
+
 ## ui
 via le UI il y a beaucoup de possibilités pour faire des instalations en mode "standalone" et/ou programmer 2-3 cue pour remettre a un clients quelque chose de facile à opérer.
 
