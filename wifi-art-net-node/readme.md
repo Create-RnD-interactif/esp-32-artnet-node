@@ -1,5 +1,9 @@
 # Wifi Artnet Node
 Suite à une exploration avec un module esp-32 et une discussion avec mon proffesseur Guillaume Arseneault j'ai découvert un logiciel nommé WLED qui s'installe rapidement sur un micro controleur esp-32.
+
+## documentation WLED
+[lien vers la documention github du projet github](https://github.com/Aircoookie/WLED-Docs)
+
 ### Les points forts de cette exploration
 - remplace une node pour vraiment pour un coût moindre
 - s'execute entièrement en mode "standalone" sur le esp-32 et a un ui web et une applicaiton téléphone qui permet de contrôler le module
