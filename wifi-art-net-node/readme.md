@@ -4,6 +4,9 @@ Suite à une exploration avec un module esp-32 et une discussion avec mon proffe
 ## documentation WLED
 [lien vers la documention github du projet github](https://github.com/Aircoookie/WLED-Docs)
 
+l'instalation est très simple, il prend en charge le web serial donc pas besoin de télécharger le code et le compiler. Il est possible de seulement brancher le esp-332 en serial et l'instalation se fait via leur site web
+[Lien vers l'instalation en webserial](https://kno.wled.ge/)
+
 ### Les points forts de cette exploration
 - remplace une node pour vraiment pour un coût moindre
 - s'execute entièrement en mode "standalone" sur le esp-32 et a un ui web et une applicaiton téléphone qui permet de contrôler le module
