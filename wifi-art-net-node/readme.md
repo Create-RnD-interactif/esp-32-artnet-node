@@ -8,7 +8,7 @@ l'instalation est très simple, il prend en charge le web serial donc pas besoin
 [Lien vers l'instalation en webserial](https://kno.wled.ge/)
 
 ### Les points forts de cette exploration
-- remplace une node pour vraiment pour un coût moindre
+- remplace une node pour un coût moindre
 - s'execute entièrement en mode "standalone" sur le esp-32 et a un ui web et une applicaiton téléphone qui permet de contrôler le module
 - permet aussi de recevoir du artnet (tester avec touchdesigner)
 
