@@ -12,7 +12,7 @@ l'instalation est très simple, il prend en charge le web serial donc pas besoin
 - s'execute entièrement en mode "standalone" sur le esp-32, a un ui web et une applicaiton téléphone qui permet de contrôler le module
 - permet aussi de recevoir du artnet (tester avec touchdesigner)
 
-## Test rapide
+## Test matériel
 - Quand le esp-32 est débrancher et rebrancher il reboot directement sur le réseau, car il est storé sur la parti préférence du esp-32
 - benché avec 2 bande led ws2815 de 300 pixels chacune durant toute la nuit
 
