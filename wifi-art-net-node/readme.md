@@ -33,7 +33,11 @@ https://youtu.be/_EtR9kphh2g
 
 https://youtu.be/wLkKNZu4zoI
 
-Les tests que j'ai effectué avec le artnet on été effectué dans touchdesigner avec 2 bande del ws2815 de 300 px (4 univers).
+Les  premiers tests que j'ai effectué avec le artnet on été effectué dans touchdesigner avec 2 bande del ws2815 de 300 px (4 univers).
 
-j'ai tester avec environs 25 pieds de distances et la transmission artnet se faisait bien
+j'ai tester avec environs 25 pieds de distances et la transmission artnet se faisait bien.
+
+ensuite j'ai tester avec 2 power supply pour avoir 4 sortie spi et 4 stips led de 300px 
+
+https://youtu.be/HcWCLveqTWA
 
