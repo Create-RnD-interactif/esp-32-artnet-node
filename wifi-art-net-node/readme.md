@@ -13,6 +13,7 @@ l'instalation est très simple, il prend en charge le web serial donc pas besoin
 - permet aussi de recevoir du artnet (tester avec touchdesigner)
 
 ## Test matériel
+- tester en full white avec 4 sortie de 300px (2 strips led par power supply) 8 univers dmx et envoi par artnet via touchdesigner : https://youtu.be/HcWCLveqTWA
 - Quand le esp-32 est débrancher et rebrancher il reboot directement sur le réseau, car il est storé sur la parti préférence du esp-32
 - benché avec 2 bande led ws2815 de 300 pixels chacune durant toute la nuit
 
